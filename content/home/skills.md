@@ -21,13 +21,13 @@ feature:
   icon_pack: fas
   name: R
   
-- icon: ":desktop_computer:""
-  icon_pack: "emoji"
-  name: GUI Development
+# - icon: ":desktop_computer:""
+#   icon_pack: "emoji"
+#   name: GUI Development
 #   
-# - icon: chart-line
-#   icon_pack: fas
-#   name: DataViz
+- icon: chart-line
+  icon_pack: fas
+  name: DataViz
 #   
 # - icon: chart-bar
 #   icon_pack: fas
