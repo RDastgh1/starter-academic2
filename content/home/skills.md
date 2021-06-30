@@ -23,11 +23,11 @@ feature:
 - description: #100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics!
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Statistics
+- description:
+  icon: ":desktop_computer:""
+  icon_pack: "emoji"
+  name: GUI Development
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
