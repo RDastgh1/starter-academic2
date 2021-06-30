@@ -16,10 +16,9 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-# - description: "" #90%
-#   icon: r-project
-#   icon_pack: fas
-#   name: R
+- icon: r-project
+  icon_pack: fas
+  name: R
 # - description: ""
 #   icon: ":desktop_computer:""
 #   icon_pack: "emoji"
