@@ -1,5 +1,5 @@
 ---
-title: Raha Dastgheyb, Ph.D
+title: Raha Dastgheyb, Ph.D test
 role: Instructor | Data Scientist | Programmer | Brain Stuff
 avatar_filename: avatar.jpg
 bio: I like creating tools and visualizations to explore data
