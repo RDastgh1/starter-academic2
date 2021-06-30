@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: # 90%
   icon: r-project
   icon_pack: fab
   name: R - TESTTTTT
-- description: 100%
+- description: 1000%
   icon: chart-line
   icon_pack: fas
   name: Statistics
