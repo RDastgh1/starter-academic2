@@ -37,9 +37,9 @@ feature:
   icon_pack: fas
   name: Statistics
 
-- icon: chart-line
-  icon_pack: fas
-  name: Matlab
+# - icon: chart-line
+#   icon_pack: fas
+#   name: Matlab
 
 - icon: brain
   icon_pack: fas
