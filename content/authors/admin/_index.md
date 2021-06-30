@@ -46,4 +46,4 @@ Even in the computational world, I believe that all the tenants of good science 
 
 I also use Machine Learning models as hypothesis-generating models. Usually focusing on Variable Importance metrics from validated models, I work on visualizations to help interpret and explore them contextually
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
