@@ -16,37 +16,38 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+
 - icon: r-project
   icon_pack: fas
   name: R
-# - description: ""
-#   icon: ":desktop_computer:""
-#   icon_pack: "emoji"
-#   name: GUI Development
-# - description: "" #100%
-#   icon: chart-line
-#   icon_pack: fas
-#   name: DataViz
-# - description: ""#100%
-#   icon: chart-bar
-#   icon_pack: fas
-#   name: Statistics
-# - description: ""#100%
-#   icon: chart-line
-#   icon_pack: fas
-#   name: Matlab  
-# - description: ""#100%
-#   icon: brain
-#   icon_pack: fas
-#   name: Neuroscience
-# - description: ""#100%
-#   icon: code-branch
-#   icon_pack: fas
-#   name: Network Analysis
-# - description: ""#100%
-#   icon: network-wired
-#   icon_pack: fas
-#   name: Machine Learning
+  
+- icon: ":desktop_computer:""
+  icon_pack: "emoji"
+  name: GUI Development
+  
+- icon: chart-line
+  icon_pack: fas
+  name: DataViz
+  
+- icon: chart-bar
+  icon_pack: fas
+  name: Statistics
+  
+- icon: chart-line
+  icon_pack: fas
+  name: Matlab
+  
+- icon: brain
+  icon_pack: fas
+  name: Neuroscience
+  
+- icon: code-branch
+  icon_pack: fas
+  name: Network Analysis
+  
+- icon: network-wired
+  icon_pack: fas
+  name: Machine Learning
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
