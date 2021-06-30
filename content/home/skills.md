@@ -18,7 +18,7 @@ subtitle:
 feature:
 
 - icon: r-project
-  icon_pack: brand
+  icon_pack: fab
   name: R
   
 # - icon: ":desktop_computer:""
