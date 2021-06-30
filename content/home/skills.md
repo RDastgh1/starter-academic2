@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
   
-- icon: "Mathworks"
+- icon: "mathworks"
   icon_pack: "custom"
   name: "Matlab"
   
