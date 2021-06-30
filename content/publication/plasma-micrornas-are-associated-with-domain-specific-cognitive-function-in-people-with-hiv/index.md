@@ -16,6 +16,7 @@ authors:
   - Esther Fujiwara
   - M John Gill
   - Leah H Rubin
+doi: 0.1097/QAD.0000000000002966
 publication: AIDS
 abstract: >-
   Cognitive impairment remains common in people with HIV (PWH) on antiretroviral
