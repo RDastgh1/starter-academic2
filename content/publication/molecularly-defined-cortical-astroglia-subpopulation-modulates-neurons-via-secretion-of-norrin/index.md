@@ -46,7 +46,7 @@ abstract: Despite expanding knowledge regarding the role of astroglia in
 draft: false
 featured: false
 image:
-  filename: https://www.nature.com/articles/s41593-019-0366-7/figures/6
+  filename: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41593-019-0366-7/MediaObjects/41593_2019_366_Fig6_HTML.png
   focal_point: Smart
   preview_only: false
 date: 2019-05-01T22:08:04.569Z
