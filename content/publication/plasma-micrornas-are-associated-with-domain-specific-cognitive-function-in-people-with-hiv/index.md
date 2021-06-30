@@ -4,7 +4,7 @@ title: Plasma microRNAs are associated with domain-specific cognitive function
 publication_types:
   - "2"
 authors:
-  - ulissa Massanett Aparicio
+  - Julissa Massanett Aparicio
   - Yanxun Xu
   - Yuliang Li
   - Carlo Colantuoni
@@ -16,7 +16,7 @@ authors:
   - Esther Fujiwara
   - M John Gill
   - Leah H Rubin
-doi: 0.1097/QAD.0000000000002966
+doi: 10.1097/QAD.0000000000002966
 publication: AIDS
 abstract: >-
   Cognitive impairment remains common in people with HIV (PWH) on antiretroviral
