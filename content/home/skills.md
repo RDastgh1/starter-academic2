@@ -21,6 +21,10 @@ feature:
   icon_pack: fab
   name: R
   
+- icon: "Mathworks"
+  icon_pack: "custom"
+  name: "Matlab"
+  
 - icon: ":desktop_computer:"
   icon_pack: "emoji"
   name: GUI APP Development
