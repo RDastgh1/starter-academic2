@@ -1,9 +1,8 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Raha Dastgheyb, Ph.D
+role: Instructor | Data Scientist | Programmer | Brain Stuff
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I like creating tools and visualizations to explore data
 interests:
   - Artificial Intelligence
   - Computational Linguistics
