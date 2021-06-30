@@ -18,7 +18,7 @@ subtitle:
 feature:
 
 - icon: r-project
-  icon_pack: fas
+  icon_pack: brand
   name: R
   
 # - icon: ":desktop_computer:""
@@ -28,26 +28,26 @@ feature:
 - icon: chart-line
   icon_pack: fas
   name: DataViz
-#   
-# - icon: chart-bar
-#   icon_pack: fas
-#   name: Statistics
-#   
-# - icon: chart-line
-#   icon_pack: fas
-#   name: Matlab
-#   
-# - icon: brain
-#   icon_pack: fas
-#   name: Neuroscience
-#   
-# - icon: code-branch
-#   icon_pack: fas
-#   name: Network Analysis
-#   
-# - icon: network-wired
-#   icon_pack: fas
-#   name: Machine Learning
+
+- icon: chart-bar
+  icon_pack: fas
+  name: Statistics
+
+- icon: chart-line
+  icon_pack: fas
+  name: Matlab
+
+- icon: brain
+  icon_pack: fas
+  name: Neuroscience
+
+- icon: code-branch
+  icon_pack: fas
+  name: Network Analysis
+
+- icon: network-wired
+  icon_pack: fas
+  name: Machine Learning
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
