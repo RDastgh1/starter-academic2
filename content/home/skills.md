@@ -18,9 +18,9 @@ subtitle:
 feature:
 - description: #90%
   icon: r-project
-  icon_pack: fab
+  icon_pack: fas
   name: R
-  - description: 
+- description: 
   icon: ":desktop_computer:""
   icon_pack: "emoji"
   name: GUI Development
