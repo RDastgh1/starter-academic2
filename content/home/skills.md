@@ -21,10 +21,10 @@ feature:
   icon_pack: fab
   name: R
   
-# - icon: ":desktop_computer:""
-#   icon_pack: "emoji"
-#   name: GUI Development
-#   
+- icon: ":desktop_computer:"
+  icon_pack: "emoji"
+  name: GUI APP Development
+  
 - icon: chart-line
   icon_pack: fas
   name: DataViz
