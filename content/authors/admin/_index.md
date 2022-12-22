@@ -1,6 +1,6 @@
 ---
 title: Raha Dastgheyb, Ph.D
-role: Instructor | Data Scientist | Programmer | Brain Stuff
+role: Assistant Professor | Data Scientist | Programmer | Brain Stuff
 avatar_filename: avatar.jpg
 bio: I like creating tools and visualizations to explore data
 interests:
@@ -38,7 +38,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am an Instructor of Neurology at the Johns Hopkins Brain Health Group.  I have a background in engineering and computer science, and I currently apply tools from those fields to addressing questions related to brain health - ranging from the bench to the clinic. 
+I am an Assistant Professor of Neurology at the Johns Hopkins Brain Health Group.  I have a background in engineering and computer science, and I currently apply tools from those fields to addressing questions related to brain health - ranging from the bench to the clinic. 
 
 Modern technology gives us more data than most people know what to do with.  Bench scientists should not be limited in terms of what they can analyze due to a lack of coding ability.  Coming from that world, I enjoy creating encapsulated GUIs to help analyze all sorts of data. 
 
